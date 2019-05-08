@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+
+<resources>
+
+    <style name="string1">
+        <item name = "android:textSize" > 20sp</item>
+        <item name = "android:textColor">#ffff00</item>
+    </style>
+
+    <style name="string2">
+        <item name = "android:textSize" > 35sp</item>
+        <item name = "android:textColor">#ff7200</item>
+        <item name = "android:layout_width">fill_parent</item>
+    </style>
+
+
+</resources>
